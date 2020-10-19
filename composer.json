@@ -1,0 +1,19 @@
+{
+    "name": "maxie/contact",
+    "description": "A contact package for learning",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxie Wright",
+            "email": "maxiewright@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Maxie\\Contact\\": "src/"
+        }
+    }
+}
